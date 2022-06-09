@@ -17,3 +17,7 @@ back end:
 front end:
 
 * React v13.3, Javascript, react-dom v18, react-router-dom v6, Node js, cors
+
+Misc: 
+
+* Postman
