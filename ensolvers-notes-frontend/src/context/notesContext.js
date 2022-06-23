@@ -92,7 +92,6 @@ export default function NotesContextProvider({ children }) {
         }
     }
 
-
     return (
         <NotesContext.Provider value={{ notes, archiveItem, deleteItem, createItem, editItem, onSetSeeArchived, listArchivedNotes }}>
             {children}

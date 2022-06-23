@@ -1,3 +1,5 @@
+"Notes.com" it's a website that contains CRUD features for simple notes.
+
 Database apps:
 
 * MySql Workbrench 8.0
@@ -10,7 +12,7 @@ Runtime app:
 
 Engines, tools, etc:
 
-back end: 
+back end:
 
 * Javascript, Express v2.6, Router, Ejs, mysql2 v2.3, Sequelizer
 
@@ -18,6 +20,6 @@ front end:
 
 * React v13.3, Javascript, react-dom v18, react-router-dom v6, Node js, cors
 
-Misc: 
+Misc:
 
 * Postman

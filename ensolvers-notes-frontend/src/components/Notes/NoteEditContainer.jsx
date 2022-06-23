@@ -41,7 +41,7 @@ export default function NoteEditContainer() {
     return <>
 
         <div class="mb-3" className="form">
-            <form onSubmit={onSubmit}>
+            <form onSubmit={onSubmit} style={{display: 'flex', flexDirection: 'column'}}>
                 <label for="exampleFormControlInput1" class="form-label">Title</label>
                 <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="title" value={name} onChange={handleNameChange} />
 
